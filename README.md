@@ -6,10 +6,10 @@ At the end of this workshop, you too will have an idea of how to go about buildi
 
 > Disclaimer: You will have to setup a billing account to use Google Models. Worry not if you don't have that, you can use something else.
 
-#### Hello Sweden! 
+## Hello Sweden! 
 
-Repo: https://github.com/malgamves/byod-javascript-workshop
-Slides: (coming)
+- Repo: https://github.com/malgamves/byod-javascript-workshop
+- Slides: (coming)
 
 ## What are we building today
 
@@ -30,8 +30,8 @@ Please have the following installed:
 
 #### Google specifics
 
-1. Setup a project and get our API keys vars
-2. Add Billing 
+1. Setup a project and get our API keys 
+2. Add Billing to your account 
 3. Install Google Cloud CLI
 
 Project ID can be found [here](https://console.cloud.google.com/welcome)
@@ -39,11 +39,10 @@ Project ID can be found [here](https://console.cloud.google.com/welcome)
 Now let's chat with Google
 > Let's talk with Google! Go [here](https://console.cloud.google.com/vertex-ai/studio/chat)
 
-### What data are we working with? 
+## What data are we working with? 
 
-Some journal data! 
-
-Link to my data: [Journal entries](./journal.json)
+Some journal data! Month entries to give as context to our LLM
+- Link to data: [Journal entries](./journal.json)
 
 
 ## Test Weaviate connection
@@ -73,44 +72,44 @@ Paste this!
   console.log("Client details", (await client.getMeta()).version)
 ```
 
-### Importing data
+## Importing data
 
 1. Create a file called `load.ts`
 2. Let's import data with `insertMany()`! 
     - Data [link](./journal.json)
 3. Run code! 
 
-### Searching for Data
+## Searching for Data
 
 1. Create a file called `query.ts`
 2. Play with Search using `nearText()`
 3. Run code! 
-4. What do our Vector look like?
+4. What do our vectors look like?
 
 
-### RAG! Retrieval Augmented Generation
+## RAG! Retrieval Augmented Generation
 
 1. Let's play with `generate.nearText()`
 2. Prompting 🪄
 3. Different types of context! Grouped or Single
 
 
-### Better Search
+## Better Search
 How can we improve retrieval?
 
-#### Hybrid Search
+### Hybrid Search
 
-The best of both words! 
+The best of both worlds! 
 1. Alpha and Fusion algorithms
 
-#### Filters and Aggregates
+### Filters and Aggregates
 Can we drill down into our data?
 
 1. Filtering on properties
 2. Aggregate queries
 
 
-### Building our App
+## Building our App
 
 1. Clone - https://github.com/weaviate-tutorials/nextjs-weaviate-template
 2. Run `yarn install` and `yarn dev`
@@ -118,16 +117,12 @@ Can we drill down into our data?
 4. Let's make it our own! 
 
 
-### Resources
+## Resources
 
 - [Weaviate Academy](https://weaviate.io/developers/academy)
 - [Weaviate x JavaScript](https://weaviate.io/javascript)
 
-#### Definitions
+## Definitions
 
-Refer to slides! 
-
-Our [Knowledge cards](https://weaviate.io/learn/knowledgecards) help a lot too! 
-
-
+Refer to slides! Weaviate [Knowledge cards](https://weaviate.io/learn/knowledgecards) help a lot too! 
 
