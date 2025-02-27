@@ -1,0 +1,254 @@
+[
+    {
+      "date": "2024-01-05T09:30:00Z",
+      "note": "Emma's birthday party planning is underway. Need to book the venue by next week. Sarah suggested the adventure park, which sounds perfect for a 7-year-old.",
+      "person": "Emma",
+      "month": "January",
+      "todo": "Call adventure park for birthday venue availability"
+    },
+    {
+      "date": "2024-01-15T19:45:00Z",
+      "note": "Dinner with Mike tonight was exactly what I needed. He's going through similar challenges with the new React framework at his company. We decided to start a bi-weekly coding session to help each other.",
+      "person": "Mike",
+      "month": "January",
+      "todo": "Set up GitHub repo for side project with Mike"
+    },
+    {
+      "date": "2024-01-28T14:20:00Z",
+      "note": "Lisa surprised me with tickets to the tech conference in March! Best wife ever. Need to request time off work and arrange for her parents to watch the kids.",
+      "person": "Lisa",
+      "month": "January",
+      "todo": "Submit time-off request for March conference"
+    },
+    {
+      "date": "2024-02-10T11:15:00Z",
+      "note": "Valentine's Day planning in progress. Found a new restaurant Lisa has been wanting to try. Need to confirm the babysitter (Mrs. Jenkins) is available.",
+      "person": "Lisa",
+      "month": "February",
+      "todo": "Call Mrs. Jenkins about Valentine's Day babysitting"
+    },
+    {
+      "date": "2024-02-18T16:30:00Z",
+      "note": "Team sprint planning went well today. Manager Tom assigned me to lead the new authentication feature. Feeling both nervous and excited about the responsibility.",
+      "person": "Tom",
+      "month": "February",
+      "todo": "Draft authentication feature specs by Friday"
+    },
+    {
+      "date": "2024-02-27T20:10:00Z",
+      "note": "Jack called about the annual fishing trip planning. We're thinking about trying the new spot at Lake Powell this year. Need to check if dates work with Lisa's schedule.",
+      "person": "Jack",
+      "month": "February",
+      "todo": "Confirm family calendar for potential fishing trip dates"
+    },
+    {
+      "date": "2024-03-05T08:45:00Z",
+      "note": "Parent-teacher conference for Noah this morning. His teacher Mrs. Rodriguez says he's excelling in math but needs more focus in reading. Going to set up a daily reading time.",
+      "person": "Noah",
+      "month": "March",
+      "todo": "Create reading progress chart for Noah's room"
+    },
+    {
+      "date": "2024-03-17T13:50:00Z",
+      "note": "Tech conference was amazing! Met several people from the industry including Sarah from DevOps Monthly. She's interested in my containerization approach and wants to feature it in their blog.",
+      "person": "Sarah",
+      "month": "March",
+      "todo": "Send containerization workflow diagrams to Sarah"
+    },
+    {
+      "date": "2024-03-28T18:20:00Z",
+      "note": "Mom called about Easter plans. They want to host at their place this year. Need to prepare the kids for the long drive and figure out what dish to bring.",
+      "person": "Mom",
+      "month": "March",
+      "todo": "Find a good recipe for Easter potluck"
+    },
+    {
+      "date": "2024-04-08T09:10:00Z",
+      "note": "Spring league soccer for Emma starts this weekend. Coach Brian sent the schedule. Looks like I'll need to adjust my Friday work hours to make the practices.",
+      "person": "Emma",
+      "month": "April",
+      "todo": "Talk to HR about flexible Friday schedule"
+    },
+    {
+      "date": "2024-04-16T16:40:00Z",
+      "note": "Code review with the team went better than expected. The authentication feature is on track. Dave suggested some performance improvements that make a lot of sense.",
+      "person": "Dave",
+      "month": "April",
+      "todo": "Implement Dave's caching suggestion in auth module"
+    },
+    {
+      "date": "2024-04-25T19:30:00Z",
+      "note": "Anniversary planning for next month is in progress. Thinking of surprising Lisa with a weekend getaway. Karen offered to watch the kids if we need.",
+      "person": "Lisa",
+      "month": "April",
+      "todo": "Research B&Bs in wine country for anniversary"
+    },
+    {
+      "date": "2024-05-03T10:15:00Z",
+      "note": "Noah's science fair project needs more work. Spent the evening helping him refine his hypothesis about plant growth. He's really getting into the scientific method.",
+      "person": "Noah",
+      "month": "May",
+      "todo": "Pick up additional supplies for Noah's experiment"
+    },
+    {
+      "date": "2024-05-14T12:45:00Z",
+      "note": "Lunch with the development team today. We celebrated the successful launch of the authentication feature. Tom hinted at a possible promotion discussion in my next review.",
+      "person": "Tom",
+      "month": "May",
+      "todo": "Prepare accomplishments document for upcoming review"
+    },
+    {
+      "date": "2024-05-22T17:55:00Z",
+      "note": "8th anniversary with Lisa today! The B&B surprise was a hit. We spent the day wine tasting and agreed to make this an annual tradition without the kids.",
+      "person": "Lisa",
+      "month": "May",
+      "todo": "Order prints of anniversary photos for the album"
+    },
+    {
+      "date": "2024-06-02T15:30:00Z",
+      "note": "Summer planning meeting with Lisa. Emma wants dance camp, Noah is set on coding camp. Need to register soon before spots fill up.",
+      "person": "Lisa",
+      "month": "June",
+      "todo": "Complete summer camp registration forms"
+    },
+    {
+      "date": "2024-06-12T08:20:00Z",
+      "note": "Morning coffee with Paul before work. He's leaving the company for a startup opportunity. Going to miss having him on the team, but he promised to refer me if any senior positions open up.",
+      "person": "Paul",
+      "month": "June",
+      "todo": "Update LinkedIn and connect with Paul's new colleagues"
+    },
+    {
+      "date": "2024-06-27T20:05:00Z",
+      "note": "Family meeting about the summer road trip. Kids are excited about seeing the Grand Canyon. Lisa has most of the route planned, but I need to handle the tech details and car maintenance.",
+      "person": "Family",
+      "month": "June",
+      "todo": "Schedule car service before road trip"
+    },
+    {
+      "date": "2024-07-04T14:00:00Z",
+      "note": "Independence Day BBQ at our place was a success! Jack and his family came, along with several neighbors. The new grill performed admirably, and everyone loved Lisa's homemade ice cream.",
+      "person": "Jack",
+      "month": "July",
+      "todo": "Send out group photos from the BBQ"
+    },
+    {
+      "date": "2024-07-15T11:25:00Z",
+      "note": "Mid-year review with Tom went extremely well. Got the promotion to Senior Developer! Salary bump starts next month. Need to celebrate with Lisa.",
+      "person": "Tom",
+      "month": "July",
+      "todo": "Book reservation at Lisa's favorite restaurant"
+    },
+    {
+      "date": "2024-07-29T16:50:00Z",
+      "note": "Road trip is halfway done. Currently in Arizona. The Grand Canyon was breathtaking. Kids are having a blast, though Noah got a bit carsick yesterday. Lisa's planning has made everything go smoothly.",
+      "person": "Family",
+      "month": "July",
+      "todo": "Find a pharmacy for Noah's motion sickness medicine"
+    },
+    {
+      "date": "2024-08-05T09:40:00Z",
+      "note": "Back to work after vacation. New project kickoff with the team today. We're building a payment processing system, and I've been assigned the security component. Exciting challenge.",
+      "person": "Team",
+      "month": "August",
+      "todo": "Review payment security best practices documentation"
+    },
+    {
+      "date": "2024-08-17T13:15:00Z",
+      "note": "Emma's dance recital was today. She was amazing as a lead dancer! Grandparents came to watch and took us all out for ice cream after. Need to send them the video footage.",
+      "person": "Emma",
+      "month": "August",
+      "todo": "Edit and share dance recital video with family"
+    },
+    {
+      "date": "2024-08-28T18:30:00Z",
+      "note": "Back-to-school shopping with Lisa and the kids. Noah needs a new laptop for his advanced computing class. Thinking of getting him the model I've been researching with good specs for coding.",
+      "person": "Noah",
+      "month": "August",
+      "todo": "Compare laptop deals online before final purchase"
+    },
+    {
+      "date": "2024-09-04T10:20:00Z",
+      "note": "First day of school for the kids. Emma started 2nd grade and Noah is in 5th. They both seemed excited about their teachers. Need to sign up for the PTA committees Lisa mentioned.",
+      "person": "Kids",
+      "month": "September",
+      "todo": "Complete PTA volunteer form by Friday"
+    },
+    {
+      "date": "2024-09-16T15:35:00Z",
+      "note": "Payment system security implementation is going well. Had a breakthrough with the encryption module today. Rachel from QA already found some edge cases we need to address.",
+      "person": "Rachel",
+      "month": "September",
+      "todo": "Fix edge cases in encryption module by Wednesday"
+    },
+    {
+      "date": "2024-09-27T19:15:00Z",
+      "note": "Date night with Lisa. We tried the new fusion restaurant downtown. Great conversation about potentially adding a pet to the family. Kids have been asking for a dog for months.",
+      "person": "Lisa",
+      "month": "September",
+      "todo": "Research family-friendly dog breeds"
+    },
+    {
+      "date": "2024-10-08T08:55:00Z",
+      "note": "Breakfast meeting with Alex from the industry meetup. He's looking for speakers for the upcoming DevCon, and thinks my payment security work would make a good presentation.",
+      "person": "Alex",
+      "month": "October",
+      "todo": "Draft DevCon presentation outline"
+    },
+    {
+      "date": "2024-10-19T12:10:00Z",
+      "note": "Fall festival at the kids' school today. Volunteered at the tech booth, teaching simple programming concepts. Noah helped and showed impressive teaching skills with the younger kids.",
+      "person": "Noah",
+      "month": "October",
+      "todo": "Look into coding mentor programs for Noah"
+    },
+    {
+      "date": "2024-10-29T17:40:00Z",
+      "note": "Halloween costume preparation in full swing. Emma wants to be a robot programmer (so proud!), and Noah is going as a cybersecurity expert. Lisa is handling the sewing parts, I'm doing the LED additions.",
+      "person": "Kids",
+      "month": "October",
+      "todo": "Wire LED circuits for the costumes"
+    },
+    {
+      "date": "2024-11-05T14:25:00Z",
+      "note": "DevCon presentation was a success! Several people approached afterward with questions. The networking reception yielded some good contacts, including Jennifer from StartupStream who's looking for security consultants.",
+      "person": "Jennifer",
+      "month": "November",
+      "todo": "Send portfolio and rates to Jennifer for consulting opportunity"
+    },
+    {
+      "date": "2024-11-18T10:50:00Z",
+      "note": "Parent-teacher conferences for both kids today. Both are doing well academically. Emma's teacher suggested advanced math group, and Noah's recommended the science olympiad team.",
+      "person": "Kids",
+      "month": "November",
+      "todo": "Submit advanced program applications for both kids"
+    },
+    {
+      "date": "2024-11-26T16:05:00Z",
+      "note": "Thanksgiving planning with Lisa. We're hosting this year. Her parents and my parents will both attend, plus brother Jake and his new girlfriend. Need to coordinate the menu and seating arrangements.",
+      "person": "Lisa",
+      "month": "November",
+      "todo": "Clean out guest room and set up extra tables"
+    },
+    {
+      "date": "2024-12-04T09:15:00Z",
+      "note": "Year-end review at work. The payment security system is now in production and performing well. Tom mentioned potential team lead opportunities opening up next quarter.",
+      "person": "Tom",
+      "month": "December",
+      "todo": "Update resume with payment security project details"
+    },
+    {
+      "date": "2024-12-13T18:35:00Z",
+      "note": "Emma's winter recital was magical. Her piano playing has improved so much this year. Recorded the whole thing for grandparents. Noah was surprisingly supportive and attentive throughout.",
+      "person": "Emma",
+      "month": "December",
+      "todo": "Order flowers for Emma's piano teacher"
+    },
+    {
+      "date": "2024-12-24T20:30:00Z",
+      "note": "Christmas Eve traditions in full effect. Cookie baking with the kids, hot chocolate, and the annual reading of 'The Night Before Christmas.' Lisa's face when she opened her early gift (the smartwatch she wanted) was priceless.",
+      "person": "Family",
+      "month": "December",
+      "todo": "Set up the video call with distant relatives for tomorrow morning"
+    }
+  ]

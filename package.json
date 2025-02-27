@@ -1,0 +1,15 @@
+{
+  "name": "byod-javascript-workshop",
+  "version": "1.0.0",
+  "description": "At the end of this workshop, you too will have an idea of how to go about building AI-enabled experiences over YOUR data with the latest and greatest from Google models.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "weaviate-client": "^3.4.0"
+  }
+}
