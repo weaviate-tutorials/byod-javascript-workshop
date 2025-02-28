@@ -8,8 +8,8 @@ At the end of this workshop, you too will have an idea of how to go about buildi
 
 ## Hello Sweden! 
 
-- Repo: https://github.com/malgamves/byod-javascript-workshop
-- Slides: (coming)
+- [Repo](https://github.com/malgamves/byod-javascript-workshop)
+- [Slides](https://drive.google.com/file/d/1BvYjUXTskAvsNWghrUjyUDe_JVoMenzK/view?usp=sharing)
 
 ## What are we building today
 
@@ -26,7 +26,7 @@ Please have the following installed:
 
 - [Node.js](https://nodejs.org/en/download/current) (v18+): `node -v`
 - [VSCode](https://code.visualstudio.com/download) (optional): `code .`
-- [GCloud CLI](https://cloud.google.com/sdk/docs/downloads-interactive) (optional): `gcloud auth print-access-token` - expires in an hour.
+- [Google Cloud CLI](https://cloud.google.com/sdk/docs/downloads-interactive) (optional): `gcloud auth print-access-token` - expires in an hour.
 
 #### Google specifics
 
@@ -34,10 +34,10 @@ Please have the following installed:
 2. Add Billing to your account 
 3. Install Google Cloud CLI
 
-Project ID can be found [here](https://console.cloud.google.com/welcome)
+Project ID can be found [here](https://console.cloud.google.com/welcome).
 
 Now let's chat with Google
-> Let's talk with Google! Go [here](https://console.cloud.google.com/vertex-ai/studio/chat)
+> Let's talk with Google! Go [here](https://console.cloud.google.com/vertex-ai/studio/chat).
 
 ## What data are we working with? 
 
@@ -50,7 +50,7 @@ Some journal data! Month entries to give as context to our LLM
 1. Make a new folder and run `npm init` in it.
 2. Install weaviate-client, typescript and dotenv.
 3. Get credentials on Weaviate Cloud
-4. Setup [TS config](https://github.com/weaviate/recipes-ts/blob/main/tsconfig.json)
+4. Setup [TS config](./tsconfig.json)
 5. Create `.env` file.
 6. Make a new script file and run it, but before! 
 
